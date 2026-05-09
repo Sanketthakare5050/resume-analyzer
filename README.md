@@ -15,7 +15,7 @@ Choosing the right resume for a specific job description can be frustrating. Thi
 
 Since this is a lightweight, frontend-only application, you can start using it immediately:
 
-1.  **Visit the Live Site:** [Insert Your Live Site URL Here]
+1.  **Visit the Live Site:** [https://sanketthakare5050.github.io/resume-analyzer/]
 2.  **Upload Resumes:** Select and upload `Resume_A` and `Resume_B`.
 3.  **Paste the JD:** Copy and paste the full Job Description into the text area.
 4.  **Analyze:** Click the analyze button to see which resume performs better.
